@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Escuadra",
+		"description": "Escuadra de 20cm",
+		"price": 123.45,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+		"code": "ESC-0001",
+		"stock": 123,
+		"id": 1
+	},
+	{
+		"title": "Calculadora",
+		"description": "Calculadora científica",
+		"price": 234.56,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+		"code": "CAL-0001",
+		"stock": 234,
+		"id": 2
+	}
+]
